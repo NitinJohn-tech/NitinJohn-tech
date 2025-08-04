@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitinjohn-tech&show_icons=true&locale=en" alt="nitinjohn-tech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitinjohn-tech&" alt="nitinjohn-tech" /></p>
+
